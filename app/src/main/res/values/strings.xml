@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Controller TV</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="myTv">My TV</string>
+    <string name="myRemoteControl">My Remote Control</string>
+    <string name="power">Power</string>
+    <string name="vol">Volume</string>
+    <string name="channel">Channel</string>
+    <string name="favChannel">Favorite Channel</string>
+    <string name="tvPowerLabel">TV Power: </string>
+    <string name="volLabel">Speaker Volume: </string>
+    <string name="currentChannel">Current Channel: </string>
+    <string name="up">+</string>
+    <string name="down">-</string>
+    <string name="CNN">CNN</string>
+    <string name="Netflix">Netflix</string>
+    <string name="sling">Sling</string>
+    <string name="youtube">Youtube</string>
+
+
+
+</resources>
